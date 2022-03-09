@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RaininSeit/static/css/main.f92a06d5.css",
+    "main.js": "/RaininSeit/static/js/main.ed728041.js",
+    "static/js/787.69d1848f.chunk.js": "/RaininSeit/static/js/787.69d1848f.chunk.js",
+    "index.html": "/RaininSeit/index.html",
+    "main.f92a06d5.css.map": "/RaininSeit/static/css/main.f92a06d5.css.map",
+    "main.ed728041.js.map": "/RaininSeit/static/js/main.ed728041.js.map",
+    "787.69d1848f.chunk.js.map": "/RaininSeit/static/js/787.69d1848f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f92a06d5.css",
+    "static/js/main.ed728041.js"
+  ]
+}
