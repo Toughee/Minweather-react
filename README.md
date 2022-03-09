@@ -1,2 +1,3 @@
-# Minweather-react
+# RaininSeit
+
 Weather app created in React
