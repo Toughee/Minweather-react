@@ -22,5 +22,5 @@
 
 <!---
 Example:
-Fix|Update for RaininSeit/repository_name/PR-Number/name_of_fix
+Fix|Update for Rainnin/repository_name/PR-Number/name_of_fix
 --->
