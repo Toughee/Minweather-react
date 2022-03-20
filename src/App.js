@@ -6,7 +6,7 @@ function App() {
     return (
         <div className="App">
             <header>
-                <h1 className="title">RaininSeit</h1>
+                <h1 className="title">Rainnin</h1>
             </header>
 
             <button className="ActionStyle">
