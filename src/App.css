@@ -1,45 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,900&family=Nanum+Gothic:wght@800&display=swap');
+
 .App {
     text-align: center;
 }
 
 body {
-    background-color: aliceblue;
-}
-
-.App-logo {
-    height: 40vmin;
-    pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-    .App-logo {
-        animation: App-logo-spin infinite 20s linear;
-    }
-}
-
-.App-header {
-    background-color: #282c34;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    font-size: calc(10px + 2vmin);
-    color: white;
+    background-image: url('https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+    background-position: center;
+    height: 100%;
+    opacity: 85%;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .title {
-    font-size: 3rem;
+    color: #ffffff;
+    font-size: 5rem;
+    font-family: 'Fira Sans', sans-serif;
 }
 
 .ActionStyle {
     padding: 0.5rem;
     margin: 0.2rem;
-    font-size: 2.5rem;
+    font-size: 2.1rem;
+    cursor: pointer;
+    box-shadow: 0px 5px 25px rgba(129, 129, 129, 0.2);
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(255, 255, 255, 0.75);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
 }
 
 .SearchBar {
     width: 20%;
     height: 3.5rem;
     font-size: 2rem;
+    box-shadow: 0px 5px 25px rgba(129, 129, 129, 0.2);
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(255, 255, 255, 0.75);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+}
+
+.DataTab {
+    background-color: #ffffff;
+    text-align: center;
+    border-radius: 5%;
+    padding: 5rem 0rem 10rem 0rem;
+    height: 20rem;
+    width: 50rem;
+    display: block;
+    margin-top: 3rem;
+    margin-right: auto;
+    margin-left: auto;
+    box-shadow: 0px 5px 25px rgba(129, 129, 129, 0.2);
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(255, 255, 255, 0.75);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+}
+
+.WeatherTitle {
+    font-size: 2rem;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+.WeatherIcon {
+    font-size: 5rem;
+    margin: 1rem;
 }
