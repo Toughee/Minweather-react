@@ -1,6 +1,5 @@
 ![App logo](./public/img/rainnin_logo.png)
 
-
 # Rainnin
 
 Minimalist weather app created in React
