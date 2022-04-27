@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Rainnin/static/css/main.0d3181d5.css",
-    "main.js": "/Rainnin/static/js/main.f77e1e28.js",
+    "main.css": "/Rainnin/static/css/main.03913394.css",
+    "main.js": "/Rainnin/static/js/main.040662b7.js",
     "static/js/787.a7faf46d.chunk.js": "/Rainnin/static/js/787.a7faf46d.chunk.js",
     "index.html": "/Rainnin/index.html",
-    "main.0d3181d5.css.map": "/Rainnin/static/css/main.0d3181d5.css.map",
-    "main.f77e1e28.js.map": "/Rainnin/static/js/main.f77e1e28.js.map",
+    "main.03913394.css.map": "/Rainnin/static/css/main.03913394.css.map",
+    "main.040662b7.js.map": "/Rainnin/static/js/main.040662b7.js.map",
     "787.a7faf46d.chunk.js.map": "/Rainnin/static/js/787.a7faf46d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d3181d5.css",
-    "static/js/main.f77e1e28.js"
+    "static/css/main.03913394.css",
+    "static/js/main.040662b7.js"
   ]
 }
