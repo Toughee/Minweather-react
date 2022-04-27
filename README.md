@@ -21,3 +21,10 @@ Proof of concept: This app was created as an example of React state, regular exp
 -   React Testing library and Jest for testing components
 -   TravisCI and CircleCI for CI/CD development
 -   Prettier for keeping all code formatted and organized
+
+
+### Image reference
+
+taken from Devin Avery from Unsplash.com
+- [Devin Avery's Unsplash profile](https://unsplash.com/@devintavery)
+- [Url for picture used in app](https://images.unsplash.com/photo-1517511620798-cec17d428bc0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
